@@ -1,0 +1,1 @@
+# macos-mode-switcher
